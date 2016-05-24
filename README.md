@@ -88,6 +88,16 @@ The other output file includes a list of class files with their origins.  An exa
 Those lines indicate that the classes are likely reused from ant-1.6.5.
 
 
+
+## Example Dataset
+
+An example dataset is available at:
+http://sel.ist.osaka-u.ac.jp/people/ishio/dataset/MSR2016-Example.zip
+The archive contains an example component database and 
+an example zip file to try the tool.
+
+
+
 ## Limitations
 
 Since the tool uses identifiers, obfuscated binaries are not analyzable.
